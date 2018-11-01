@@ -2,4 +2,8 @@
 
 master2
 
+<<<<<<< HEAD
 branch2
+=======
+branch3
+>>>>>>> branch
